@@ -1,5 +1,5 @@
 # Sony_FCB_ev7520_QT
-
+Originally from https://github.com/ocinemod87/fcb_ev7520_QT
 FCB EV 7520 Controller in QT
 
 This software is a school project I developed during my AP degree in IT Technology.
