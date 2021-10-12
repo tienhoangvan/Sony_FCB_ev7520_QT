@@ -2,7 +2,7 @@
 Originally from https://github.com/ocinemod87/fcb_ev7520_QT
 FCB EV 7520 Controller in QT
 
-This software is a school project I developed during my AP degree in IT Technology.
+This software is a school project I developed.
 
 The application is part of a bigger project about a microscope used for scientific research and development. 
 The camera is a Sony FCB-EV7520 using the VISCA protocol to communicate. The camera is Full-HD and has many features such as 
